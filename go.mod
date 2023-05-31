@@ -1,4 +1,4 @@
-module github.com/davidbyttow/govips/v2
+module github.com/lukeparkf12/govips/v2
 
 go 1.15
 

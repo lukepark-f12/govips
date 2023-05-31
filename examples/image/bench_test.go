@@ -2,10 +2,11 @@ package image
 
 import (
 	"fmt"
-	"github.com/davidbyttow/govips/v2/vips"
 	"runtime"
 	"testing"
 	"time"
+
+	"github.com/lukeparkf12/govips/v2/vips"
 )
 
 func init() {
