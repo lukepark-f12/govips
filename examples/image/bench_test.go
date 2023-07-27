@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/lukeparkf-12/govips/v2/vips"
+	"github.com/lukepark-f12/govips/v2/vips"
 )
 
 func init() {

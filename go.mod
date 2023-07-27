@@ -1,4 +1,4 @@
-module github.com/lukeparkf-12/govips/v2
+module github.com/lukepark-f12/govips/v2
 
 go 1.15
 

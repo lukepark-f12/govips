@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/lukeparkf-12/govips/v2/vips"
+	"github.com/lukepark-f12/govips/v2/vips"
 )
 
 var file = "../../resources/jpg-24bit-icc-iec.jpg"
